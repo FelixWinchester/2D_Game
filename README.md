@@ -5,5 +5,5 @@
  
 </div>
 
-$${\color{lightblue}Мне \space пришла \space идея \space написать \space свою \space собственную \space текстовую игру}$$
+$${\color{lightblue}Мне \space пришла \space идея \space написать \space свою \space собственную \space текстовую \space игру}$$
 $${\color{lightblue}в \space жанре \space РПГ. \space В \space ней \space будет \space несколько \space классов \space и \space т.д}$$
