@@ -1,5 +1,7 @@
 <div align = "center">
- 2D_Game
+ 
+ # $${\color{red}Текстовая \space Игра}$$
+ ## $${\color{green}Автор: \space Смыслов \space \Антон}$$
 </div>
 
-Описание в разработке, но тут будет делаться 2d игра в стиле рпг. 
+# $${\color{blue}Мне \space пришла \space идея \space написать \space свою \space собственную \space текстовую игру, \space в \space жанре \space РПГ. \space В \space ней \space будет \space несколько \space классов \space и \space т.д}$$
